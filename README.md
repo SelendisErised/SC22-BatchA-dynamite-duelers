@@ -18,3 +18,6 @@ Facial recognition using OpenCV cascade classifier.
 
 ## Digit Classifier
 Handwritten digit recognition Using PyTorch.
+
+## Serpapi
+Scrape Google and other search engines to download images.
