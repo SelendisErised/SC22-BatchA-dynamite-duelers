@@ -2,10 +2,6 @@
 
 ## Team member
 
-### Instructor
-Jinxuan
-
-### Student
 Karisma, Emerson, Aditya, Annette, Jacob, Ben
 
 ## Environment Setting
