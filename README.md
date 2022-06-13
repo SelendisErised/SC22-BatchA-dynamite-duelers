@@ -17,4 +17,4 @@ Miniproject: The computer sets a random 4 digit number for the user to guess. Th
 Facial recognition using OpenCV cascade classifier.
 
 ## Digit Classifier
-Handwritten Digit Recognition Using PyTorch.
+Handwritten digit recognition Using PyTorch.
